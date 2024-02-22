@@ -1,0 +1,1 @@
+need modify script test_task.py it is necessary to add 0 when the post office or link is not working
